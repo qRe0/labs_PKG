@@ -8,3 +8,6 @@
 
 # Лектор:
 Доцент кафедры КТС, кандидат физико-математических наук Василевский Константин Викторович
+
+# Гугл диск с .exe файлами
+https://drive.google.com/drive/folders/1G2wd0ERDDsc0s9CEUSvQLLWW3iog5B1_?usp=sharing
