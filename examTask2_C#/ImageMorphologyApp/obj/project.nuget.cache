@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+kRacR/FJzs6X2Ac0Uabl0SnpUgKiNeQTZFQM8hzZmY+ja8b0tcpikm5PJZwePrvdSQ6Avl8qCFsCSWwSLiDjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qRe\\RiderProjects\\ImageMorphologyApp\\ImageMorphologyApp\\ImageMorphologyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qRe\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\qRe\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
